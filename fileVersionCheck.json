@@ -4,7 +4,7 @@
 			"fileName": "fileVersion",
 			"fileVersion": "059",
 			"adFrequency": "4",
-			"showEmergencyPopUp": "no"
+			"showEmergencyPopUp": "yes"
 		}
 	]
 }
