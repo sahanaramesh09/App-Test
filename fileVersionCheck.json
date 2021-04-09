@@ -4,7 +4,8 @@
 			"fileName": "fileVersion",
 			"fileVersion": "059",
 			"adFrequency": "4",
-			"showEmergencyPopUp": "yes"
+			"showEmergencyPopUp": "yes",
+			"backUpAppLink": "https://play.google.com/store/apps/details?id=com.cvtech.kenyatv"
 		}
 	]
 }
