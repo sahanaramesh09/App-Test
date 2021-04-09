@@ -4,7 +4,7 @@
 			"fileName": "fileVersion",
 			"fileVersion": "059",
 			"adFrequency": "4",
-			"showEmergencyPopUp": "yes",
+			"showEmergencyPopUp": "no",
 			"backUpAppLink": "https://play.google.com/store/apps/details?id=com.vicman.toonmeapp"
 		}
 	]
